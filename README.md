@@ -18,7 +18,7 @@ git push
 
 ## For existing repositories
 
-- You can use the following to add/link your remote repository to your local repository
+- You can use the following steps to add/link your remote repository to your local repository
 
     From `terminal` or `command prompt` cd to your local repository root folder
 
