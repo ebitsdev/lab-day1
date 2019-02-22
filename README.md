@@ -20,8 +20,12 @@ git push
 
 - You can use the following to add/link your remote repository to your local repository
 
-`git remote add origin git@github.com:ebitsdev/lab-day1.git` if you are using `ssh` protocle
+    From `terminal` or `command prompt` cd to your local repository root folder
 
-`git remote add origin https://github.com/ebitsdev/lab-day1.git` if you are using `https` protocle
+    `git init` to initialize a new git repository
+
+    `git remote add origin git@github.com:ebitsdev/lab-day1.git` if you are using `ssh` protocle
+
+    `git remote add origin https://github.com/ebitsdev/lab-day1.git` if you are using `https` protocle
 
 * Please remember to replace the git repository `url` with your repository address.
