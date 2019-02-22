@@ -1,4 +1,4 @@
-# Demo on HTML, JavaScript, and CSS
+# Demo HTML, JavaScript, and CSS
 - Created git repository
 - Cloned git repo locally and cdied to the local folder
 - Created HTML
