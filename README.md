@@ -15,3 +15,13 @@ git add .
 git commit -m "commit message"
 git push
 ```
+
+## For existing repositories
+
+- You can use the following to add/link your remote repository to your local repository
+
+`git remote add origin git@github.com:ebitsdev/lab-day1.git` if you are using `ssh` protocle
+
+`git remote add origin https://github.com/ebitsdev/lab-day1.git` if you are using `https` protocle
+
+* Please remember to replace the git repository `url` with your repository address.
